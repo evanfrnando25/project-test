@@ -76,14 +76,14 @@
         
         button {
              cursor: pointer;
-            width: 100%;
+             width: 100%;
              background: #003B78;
-                    color: #ffffff;
-                    border: none;
-                    border-radius: 5px;
-                    padding: 5px;
-                    font-size: 10px;
-                    letter-spacing: 2px;
+             color: #ffffff;
+             border: none;
+             border-radius: 5px;
+             padding: 5px;
+             font-size: 10px;
+             letter-spacing: 2px;
         }
 
     }
